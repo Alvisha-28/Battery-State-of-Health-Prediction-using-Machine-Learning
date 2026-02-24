@@ -5,9 +5,9 @@ This project focuses on predicting the **State of Health (SoH)** of lithium-ion 
 It uses battery parameters such as **Voltage, Current, Temperature, and State of Charge (SOC)** to estimate battery health accurately.
 
 This project is useful in **Battery Management Systems (BMS)** used in:
-- Electric Vehicles 🚗
-- Mobile devices 📱
-- Renewable energy storage systems ⚡
+- Electric Vehicles 
+- Mobile devices 
+- Renewable energy storage systems 
 
 ---
 
@@ -35,7 +35,7 @@ The dataset used in this project is inspired from:
 ---
 
 ## ⚙️ Technologies Used
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Scikit-learn
