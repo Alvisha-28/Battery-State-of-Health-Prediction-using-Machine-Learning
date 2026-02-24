@@ -64,19 +64,19 @@ Indicates how well the model **fits the data**
 
 ---
 
-## 🏆 Results
+## Results
 
 | Model | MAE | R² Score |
 |------|------|---------|
 | Linear Regression | 0.0040 | 0.9966 |
 | Random Forest | 0.0063 | 0.9914 |
 
-📌 **Conclusion:**  
+ **Conclusion:**  
 Linear Regression performed better for this dataset due to its near-linear behavior.
 
 ---
 
-## 📊 Output Visualization
+## Output Visualization
 
 The following graph shows comparison between **Actual SoH vs Predicted SoH**
 
