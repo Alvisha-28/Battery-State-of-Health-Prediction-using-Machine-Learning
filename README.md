@@ -1,8 +1,8 @@
 # 🔋 Machine Learning Based Battery State of Health (SoH) Prediction using SOC Data
 
 ## 📌 Overview
-This project focuses on predicting the **State of Health (SoH)** of lithium-ion batteries using **Machine Learning techniques**.  
-It uses battery parameters such as **Voltage, Current, Temperature, and State of Charge (SOC)** to estimate battery health accurately.
+This project focuses on predicting the **State of Health (SoH)** of lithium-ion batteries using the **Machine Learning techniques**.  
+It uses battery parameters such as **Voltage, Current, Temperature, and State of Charge (SOC)** to estimate the battery health accurately.
 
 This project is useful in **Battery Management Systems (BMS)** used in:
 - Electric Vehicles 
